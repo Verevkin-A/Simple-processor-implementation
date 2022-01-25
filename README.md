@@ -1,2 +1,1 @@
-# INP
-Projekt - Procesor s jednoduchou instrukční sadou
+## Processor with simple instruction set project
